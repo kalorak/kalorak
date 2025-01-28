@@ -27,3 +27,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalorak&show_icons=true&locale=en&layout=compact" alt="kalorak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalorak&" alt="kalorak" /></p>
+<p align='left'>
+   <a href="https://github-readme-stats.vercel.app/api?username=kalorak&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=kalorak&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/kalorak/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalorak&layout=compact"/></a>
+</p>
