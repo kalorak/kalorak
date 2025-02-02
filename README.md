@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Python, SQL**
 
-- 👨‍💻 All of my projects are available at [https://mark-kalotai-backend-portfolio.onrender.com/](https://mark-kalotai-backend-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://mark-kalotai-portfolio.onrender.com/](https://mark-kalotai-portfolio.onrender.com/)
 
 - 📫 How to reach me **kalotai92@gmail.com**
 
-- 📄 Know about my experiences [https://mark-kalotai-backend-portfolio.onrender.com/about](https://mark-kalotai-backend-portfolio.onrender.com/about)
+- 📄 Know about my experiences [https://mark-kalotai-portfolio.onrender.com/](https://mark-kalotai-portfolio.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
